@@ -35,7 +35,7 @@ Mr_z = [[37,40,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
 
 data_dec = go_tree.predict(Mr_z)
 print('==============')
-if data_dec ==1:
+if data_dec == 1:
     print("go on")
 else:
     print("give up")
